@@ -13,7 +13,7 @@ on:
       site_url:
         description: 'SITE URL'
         required: false
-        default: 'https://pr-2-committee100.pantheonsite.io'
+        default: 'https://downtowndcfoundation.org'
 
 
 # Cancel superseded runs for the same branch/commit.
