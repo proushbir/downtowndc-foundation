@@ -39,7 +39,7 @@ export default defineConfig({
   },
 
   use: {
-    baseURL: process.env.BASE_URL || 'https://pr-2-committee100.pantheonsite.io',
+    baseURL: process.env.BASE_URL || 'https://downtowndcfoundation.org',
     trace: 'retain-on-failure',
     screenshot: 'only-on-failure',
     video: 'retain-on-failure',
